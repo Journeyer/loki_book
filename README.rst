@@ -7,7 +7,8 @@ Modern C++ Design
 About the C++ Source Code
 -------------------------
 
-**Origin** : http://sourceforge.net/projects/loki-lib/files/Source%20Code/
+**Origin** : `sourceforge.net
+<http://sourceforge.net/projects/loki-lib/files/Source%20Code/>`_
 
 **License** : `MIT <http://opensource.org/licenses/mit-license.php>`_
 
